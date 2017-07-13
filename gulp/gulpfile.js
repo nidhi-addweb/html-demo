@@ -1,8 +1,8 @@
 var gulp       = require('gulp');
 /* Minify & Optimize Image */
+/* Minify & Optimize Image */
 var imagemin   = require('gulp-imagemin');
 var pngquant   = require('imagemin-pngquant');
-var imageop    = require('gulp-image-optimization');
 /* Scss Ordering */
 var scsslint   = require('gulp-scss-lint');
 /* Generate css & Minify it */
